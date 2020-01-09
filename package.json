@@ -1,0 +1,16 @@
+{
+  "name": "luhn",
+  "version": "1.0.0",
+  "description": "Luhn Algorithm",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Bryce McMath",
+  "license": "ISC"
+}
